@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# App Outputs
+*_Master_Decrypted/
+Result.png
+
+# Environments
+.venv/
+env/
